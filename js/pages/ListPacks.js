@@ -120,6 +120,7 @@ export default {
             <li>
                 div class="type-title-sm">Comp</div>
                 <p>{{selectedlevel.records.user || 'Any' }}</p>
+            </li>    
           </ul>
         </div>
       </div>
