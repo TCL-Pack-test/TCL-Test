@@ -117,9 +117,6 @@ export default {
               <p>{{ selectedLevel.version || 'Any' }}</p>
             </li>
             <li>
-              <div class="type-title-sm">Comp</div>
-              <p>{{selectedlevel.records.user || 'Any' }}</p>
-            </li>    
           </ul>
         </div>
       </div>
