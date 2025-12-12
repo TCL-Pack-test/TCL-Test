@@ -116,6 +116,10 @@ export default {
               <div class="type-title-sm">VERSION</div>
               <p>{{ selectedLevel.version || 'Any' }}</p>
             </li>
+        <ul class="Completion">
+            <li>
+                div class="type-title-sm">Comp</div>
+                <p>{{[ ]}}</p>
           </ul>
         </div>
       </div>
