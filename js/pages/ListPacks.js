@@ -119,7 +119,7 @@ export default {
         <ul class="Completion">
             <li>
                 div class="type-title-sm">Comp</div>
-                <p>{{[ ]}}</p>
+                <p>{{selectedlevel.records.user}}</p>
           </ul>
         </div>
       </div>
