@@ -59,6 +59,8 @@
   width: 100%;
 }
 
+
+
 .page-list-packs .list .level button {
   width: 100%;
   text-align: start;
@@ -116,4 +118,12 @@
   flex-direction: column;
   align-items: center;
   gap: 1rem;
+}
+
+.page-list-packs .level-container .level .records {
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding-right: 2rem;
 }
