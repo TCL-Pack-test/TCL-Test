@@ -80,6 +80,16 @@
     ]
   },
   {
+    "name": "Impossible Pack",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+      126046267,
+      125663229,
+      125944883,
+    ]
+  },
+  {
     "name": "Hank Pack",
     "color": "#5bd3ff",
     "points": 325,
@@ -98,6 +108,30 @@
       126939384,
       126272739,
       127509008
+    ]
+  },
+  {
+    "name": "Hazbin Hotel I Pack",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+     129165882,
+     129167852,
+     128816031,
+     129041924,
+     128802261,
+     128599463
+    ]
+  },
+  {
+    "name": "Hazbin Hotel II Pack",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+      129211417,
+      129043989,
+      129161336,
+      129106000
     ]
   },
   {
