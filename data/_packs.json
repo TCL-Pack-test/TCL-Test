@@ -74,6 +74,18 @@
     ]
   },
   {
+    "name": "Cube Pack",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+      128008427,
+      128577829,
+      128816031,
+      127630277,
+      127896043
+    ]
+  },
+  {
     "name": "Robot Pack",
     "color": "#5bd3ff",
     "points": 325,
