@@ -1,7 +1,7 @@
 [
   {
     "name": "Ship Pack I",
-    "color": "#5bd3ff",
+    "color": "#f542e3",
     "points": 227,
     "levels": [
       127391340,
@@ -14,7 +14,7 @@
   },
   {
     "name": "Ship Pack II",
-    "color": "#5bd3ff",
+    "color": "#942f8a",
     "points": 422,
     "levels": [
       129106000,
@@ -26,7 +26,7 @@
   },
   {
     "name": "Wave Pack I",
-    "color": "#5bd3ff",
+    "color": "#3553e8",
     "points": 325,
     "levels": [
       127817412,
@@ -38,7 +38,7 @@
   },
   {
     "name": "Wave Pack II",
-    "color": "#5bd3ff",
+    "color": "#2f4094",
     "points": 325,
     "levels": [
       128337500,
@@ -50,7 +50,7 @@
   },
   {
     "name": "Cube Pack",
-    "color": "#5bd3ff",
+    "color": "#62e835",
     "points": 325,
     "levels": [
       128008427,
@@ -62,7 +62,7 @@
   },
   {
     "name": "Robot Pack",
-    "color": "#5bd3ff",
+    "color": "#d6d4d0",
     "points": 325,
     "levels": [
       128936112,
@@ -72,7 +72,7 @@
   },
   {
     "name": "Swing Pack",
-    "color": "#5bd3ff",
+    "color": "#cc921d",
     "points": 325,
     "levels": [
       129210576,
@@ -82,7 +82,7 @@
   },
   {
     "name": "Consistency Pack I",
-    "color": "#5bd3ff",
+    "color": "#1dcc94",
     "points": 150,
     "levels": [
       125963773,
@@ -95,7 +95,7 @@
   },
   {
     "name": "Consistency Pack II",
-    "color": "#5bd3ff",
+    "color": "#0d5941",
     "points": 293,
     "levels": [
       125653324,
@@ -107,7 +107,7 @@
   },
   {
     "name": "OG Pack",
-    "color": "#5bd3ff",
+    "color": "#d9261c",
     "points": 325,
     "levels": [
       123845217,
@@ -118,7 +118,7 @@
   },
   {
     "name": "Wave Trials",
-    "color": "#5bd3ff",
+    "color": "#8d1cd9",
     "points": 325,
     "levels": [
       128719600,
@@ -128,7 +128,7 @@
   },
   {
     "name": "Impossible Pack",
-    "color": "#5bd3ff",
+    "color": "#801c14",
     "points": 325,
     "levels": [
       126046267,
@@ -138,7 +138,7 @@
   },
   {
     "name": "Hank Pack",
-    "color": "#5bd3ff",
+    "color": "#b854b1",
     "points": 325,
     "levels": [
       128008427,
@@ -147,7 +147,7 @@
   },
   {
     "name": "One Click Pack",
-    "color": "#5bd3ff",
+    "color": "#778f3f",
     "points": 325,
     "levels": [
       127661210,
@@ -159,7 +159,7 @@
   },
   {
     "name": "Hazbin Hotel Pack I",
-    "color": "#5bd3ff",
+    "color": "#3f688f",
     "points": 325,
     "levels": [
      129165882,
@@ -171,8 +171,8 @@
     ]
   },
   {
-    "name": "Hazbin Hotel Pack I",
-    "color": "#5bd3ff",
+    "name": "Hazbin Hotel Pack II",
+    "color": "#3f8b8f",
     "points": 325,
     "levels": [
       129211417,
@@ -183,7 +183,7 @@
   },
   {
     "name": "Impossible Endings Pack",
-    "color": "#5bd3ff",
+    "color": "#8f703f",
     "points": 325,
     "levels": [
       128187178,
@@ -194,7 +194,7 @@
   },
   {
     "name": "Crush Pack",
-    "color": "#5bd3ff",
+    "color": "#e80ca6",
     "points": 325,
     "levels": [
       128310096,
@@ -205,7 +205,7 @@
   },
   {
     "name": "Finni Pack",
-    "color": "#5bd3ff",
+    "color": "#0c29e8",
     "points": 325,
     "levels": [
       125661146,
@@ -216,7 +216,7 @@
   },
   {
     "name": "Creeper Jamie Pack",
-    "color": "#5bd3ff",
+    "color": "##0ce85c",
     "points": 325,
     "levels": [
       129069114,
@@ -229,7 +229,7 @@
   },
   {
     "name": "Decoration Pack",
-    "color": "#5bd3ff",
+    "color": "#c30ce8",
     "points": 325,
     "levels": [
       129233199,
