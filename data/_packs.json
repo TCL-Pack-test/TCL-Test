@@ -60,6 +60,47 @@
     ]
   },
   {
+    "name": "OG Pack",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+      123845217,
+      125661146,
+      126237149
+    ]
+  },
+  {
+    "name": "Wave Trials",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+      128719600,
+      128579122,
+      128577559
+    ]
+  },
+  {
+    "name": "Hank Pack",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+      128008427,
+      127222284
+    ]
+  },
+  {
+    "name": "One Click Pack",
+    "color": "#5bd3ff",
+    "points": 325,
+    "levels": [
+      127661210,
+      127045222,
+      126939384,
+      126272739,
+      127509008
+    ]
+  },
+  {
     "name": "Crush Pack",
     "color": "#5bd3ff",
     "points": 325,
